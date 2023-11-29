@@ -301,5 +301,6 @@ def main():
     letter = input(str("Lettre : "))
     letter_lookup(letter.upper())
 
+# Main
 if __name__ == "__main__":
     main()
