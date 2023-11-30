@@ -30,7 +30,7 @@ python main.py
 ---
 
 ## Essayer en Ligne
-Pas envie d'installer ? Pas de problème ! Essayez-le en ligne : [Replit 🔗 ](https://replit.com/@jammeslucas/PetitBac-Cheatsheet#main.py)
+Pas envie d'installer ? Pas de problème ! Essayez-le en ligne : [Replit 🔗 ](https://replit.com/@jammeslucas/PetitBac-Cheatsheet)
 
 ---
 
