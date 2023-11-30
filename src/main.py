@@ -56,7 +56,7 @@ def letter_lookup(letter):
             "Célébrité": "Depardieu",
             "Animal": "Dauphin",
             "Couleur": "Doré",
-            "Légume": "Dolique",
+            "Légume": "Dachine",
             "Fruit": "Datte"
         },
         "E": {
@@ -86,7 +86,7 @@ def letter_lookup(letter):
             "Célébrité": "Gainsbourg",
             "Animal": "Girafe",
             "Couleur": "Gris",
-            "Légume": "Gombo",
+            "Légume": "Gingembre",
             "Fruit": "Groseille"
         },
         "H": {
@@ -97,7 +97,7 @@ def letter_lookup(letter):
             "Animal": "Hibou",
             "Couleur": "Havane",
             "Légume": "Haricot",
-            "Fruit": "Hélène"
+            "Fruit": "Hippophae rhamnoides"
         },
         "I": {
             "Prénom": "Isabelle",
@@ -155,7 +155,7 @@ def letter_lookup(letter):
             "Sport": "Natation",
             "Célébrité": "Newton",
             "Animal": "Narval",
-            "Couleur": "Navy",
+            "Couleur": "Noir",
             "Légume": "Navet",
             "Fruit": "Nectarine"
         },
@@ -163,7 +163,7 @@ def letter_lookup(letter):
             "Prénom": "Olivier",
             "Ville": "Oslo",
             "Sport": "Omnisport",
-            "Célébrité": "Oprah",
+            "Célébrité": "Obama",
             "Animal": "Otarie",
             "Couleur": "Ocre",
             "Légume": "Oignon",
@@ -183,7 +183,7 @@ def letter_lookup(letter):
             "Prénom": "Quentin",
             "Ville": "Québec",
             "Sport": "Quidditch",
-            "Célébrité": "Quincy",
+            "Célébrité": "Quétier",
             "Animal": "Quokka",
             "Couleur": "Quartz",
             "Légume": "Quinoa",
@@ -206,8 +206,8 @@ def letter_lookup(letter):
             "Célébrité": "Streep",
             "Animal": "Serpent",
             "Couleur": "Saumon",
-            "Légume": "Salade",
-            "Fruit": "Strawberry"
+            "Légume": "Salsifi",
+            "Fruit": "Sapotille"
         },
         "T": {
             "Prénom": "Thomas",
@@ -217,7 +217,7 @@ def letter_lookup(letter):
             "Animal": "Tigre",
             "Couleur": "Turquoise",
             "Légume": "Tomate",
-            "Fruit": "Tangerine"
+            "Fruit": "Tamarin"
         },
         "U": {
             "Prénom": "Ulysse",
@@ -227,7 +227,7 @@ def letter_lookup(letter):
             "Animal": "Urubu",
             "Couleur": "Ultramarine",
             "Légume": "Ulluco",
-            "Fruit": "Ugli fruit"
+            "Fruit": "Ugli"
         },
         "V": {
             "Prénom": "Valérie",
@@ -247,16 +247,16 @@ def letter_lookup(letter):
             "Animal": "Wallaby",
             "Couleur": "Wengé",
             "Légume": "Wasabi",
-            "Fruit": "Watermelon"
+            "Fruit": "Wampi"
         },
         "X": {
             "Prénom": "Xavier",
             "Ville": "Xian",
-            "Sport": "Xingyi quan",
+            "Sport": "Xingyiquan",
             "Célébrité": "Xzibit",
             "Animal": "Xénarthre",
             "Couleur": "Xanadu",
-            "Légume": "Xérès",
+            "Légume": "Xigua",
             "Fruit": "Ximenia"
         },
         "Y": {
@@ -265,7 +265,7 @@ def letter_lookup(letter):
             "Sport": "Yoga",
             "Célébrité": "Yeoh",
             "Animal": "Yak",
-            "Couleur": "Yellow",
+            "Couleur": "N/A",
             "Légume": "Yucca",
             "Fruit": "Yuzu"
         },
@@ -276,8 +276,8 @@ def letter_lookup(letter):
             "Célébrité": "Zeta-Jones",
             "Animal": "Zèbre",
             "Couleur": "Zinzolin",
-            "Légume": "Zucchini",
-            "Fruit": "Ziziphus"
+            "Légume": "N/A",
+            "Fruit": "Zatte"
         }
     }
 
